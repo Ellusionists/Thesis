@@ -1,0 +1,42 @@
+Route for vehicle 0:
+0->0
+Time of the route: 0m
+Route for vehicle 1:
+0->0
+Time of the route: 0m
+Route for vehicle 2:
+0->0
+Time of the route: 0m
+Route for vehicle 3:
+0->0
+Time of the route: 0m
+Route for vehicle 4:
+0->0
+Time of the route: 0m
+Route for vehicle 5:
+0->0
+Time of the route: 0m
+Route for vehicle 6:
+0->0
+Time of the route: 0m
+Route for vehicle 7:
+0->0
+Time of the route: 0m
+Route for vehicle 8:
+0->8->16->0
+Time of the route: 11m
+Route for vehicle 9:
+0->6->14->9->0
+Time of the route: 11m
+Route for vehicle 10:
+0->5->4->12->10->19->0
+Time of the route: 11m
+Route for vehicle 11:
+0->17->13->3->7->1->0
+Time of the route: 10m
+Route for vehicle 12:
+0->0
+Time of the route: 0m
+Route for vehicle 13:
+0->18->15->11->2->0
+Time of the route: 7m
