@@ -1,0 +1,70 @@
+Route for vehicle 0:
+ 0 ->  82 ->  85 ->  94 ->  111 ->  125 ->  129 ->  126 ->  120 ->  124 ->  115 ->  92 ->  81 ->  75 ->  61 ->  0 
+Distance of the route: 10952
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0444 -> I-UE-ABDD-ENB-0339 -> I-UE-ABDD-ENB-0696 -> I-UE-ABDD-ENB-6032 -> I-UE-ABDD-ENB-0132 -> I-UE-ABDD-ENB-6026 -> I-UE-ABDD-ENB-0136 -> I-UE-ABDD-ENB-6088 -> I-UE-ABDD-ENB-6054 -> I-UE-ABDD-ENB-6024 -> I-UE-ABDD-ENB-0338 -> I-UE-ABDD-ENB-0260 -> I-UE-ABDD-ENB-0448 -> I-UE-ABDD-ENB-0445 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 1:
+ 0 ->  34 ->  50 ->  59 ->  79 ->  84 ->  100 ->  99 ->  105 ->  109 ->  118 ->  122 ->  103 ->  104 ->  45 ->  0 
+Distance of the route: 8325
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0176 -> I-UE-ABDD-ENB-0262 -> I-UE-ABDD-ENB-0471 -> I-UE-ABDD-ENB-0364 -> I-UE-ABDD-ENB-0316 -> I-UE-ABDD-ENB-0347 -> I-UE-ABDD-ENB-0431 -> I-UE-ABDD-ENB-0141 -> I-UE-ABDD-ENB-6038 -> I-UE-ABDD-ENB-0143 -> I-UE-ABDD-ENB-6093 -> I-UE-ABDD-ENB-6094 -> I-UE-ABDD-ENB-0475 -> I-UE-ABDD-ENB-6059 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 2:
+ 0 ->  95 ->  110 ->  96 ->  88 ->  83 ->  80 ->  76 ->  73 ->  63 ->  37 ->  31 ->  23 ->  17 ->  25 ->  0 
+Distance of the route: 6187
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-6067 -> I-UE-ABDD-ENB-6057 -> I-UE-ABDD-ENB-0225 -> I-UE-ABDD-ENB-0529 -> I-UE-ABDD-ENB-0649 -> I-UE-ABDD-ENB-0080 -> I-UE-ABDD-ENB-0376 -> I-UE-ABDD-ENB-0323 -> I-UE-ABDD-ENB-0379 -> I-UE-ABDD-ENB-0543 -> I-UE-ABDD-ENB-0726 -> I-UE-ABDD-ENB-6095 -> I-UE-ABDD-ENB-0554 -> I-UE-ABDD-ENB-0686 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 3:
+ 0 ->  32 ->  44 ->  39 ->  38 ->  47 ->  54 ->  65 ->  69 ->  71 ->  55 ->  41 ->  43 ->  51 ->  33 ->  0 
+Distance of the route: 5502
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0442 -> I-UE-ABDD-ENB-0303 -> I-UE-ABDD-ENB-0632 -> I-UE-ABDD-ENB-0734 -> I-UE-ABDD-ENB-0429 -> I-UE-ABDD-ENB-0577 -> I-UE-ABDD-ENB-0290 -> I-UE-ABDD-ENB-0443 -> I-UE-ABDD-ENB-0227 -> I-UE-ABDD-ENB-6066 -> I-UE-ABDD-ENB-0151 -> I-UE-ABDD-ENB-0286 -> I-UE-ABDD-ENB-0642 -> I-UE-ABDD-ENB-0730 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 4:
+ 0 ->  121 ->  128 ->  123 ->  74 ->  72 ->  98 ->  93 ->  90 ->  101 ->  114 ->  127 ->  119 ->  97 ->  18 ->  0 
+Distance of the route: 8191
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0412 -> I-UE-ABDD-ENB-0027 -> I-UE-ABDD-ENB-6115 -> I-UE-ABDD-ENB-6072 -> I-UE-ABDD-ENB-0250 -> I-UE-ABDD-ENB-0399 -> I-UE-ABDD-ENB-6087 -> I-UE-ABDD-ENB-0007 -> I-UE-ABDD-ENB-0013 -> I-UE-ABDD-ENB-0728 -> I-UE-ABDD-ENB-0319 -> I-UE-ABDD-ENB-0307 -> I-UE-ABDD-ENB-0008 -> I-UE-ABDD-ENB-6069 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 5:
+ 0 ->  26 ->  86 ->  113 ->  70 ->  87 ->  29 ->  19 ->  16 ->  27 ->  13 ->  6 ->  9 ->  3 ->  5 ->  0 
+Distance of the route: 3278
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0727 -> I-UE-ABDD-ENB-6089 -> I-UE-ABDD-ENB-0358 -> I-UE-ABDD-ENB-0440 -> I-UE-ABDD-ENB-6071 -> I-UE-ABDD-ENB-0366 -> I-UE-ABDD-ENB-0310 -> I-UE-ABDD-ENB-0343 -> I-UE-ABDD-ENB-0382 -> I-UE-ABDD-ENB-0446 -> I-UE-ABDD-ENB-0073 -> I-UE-ABDD-ENB-0360 -> I-UE-ABDD-ENB-6075 -> I-UE-ABDD-ENB-0532 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 6:
+ 0 ->  42 ->  53 ->  35 ->  28 ->  30 ->  46 ->  49 ->  89 ->  58 ->  48 ->  67 ->  68 ->  91 ->  62 ->  0 
+Distance of the route: 5218
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0453 -> I-UE-ABDD-ENB-0732 -> I-UE-ABDD-ENB-0735 -> I-UE-ABDD-ENB-0254 -> I-UE-ABDD-ENB-6062 -> I-UE-ABDD-ENB-0190 -> I-UE-ABDD-ENB-6096 -> I-UE-ABDD-ENB-0476 -> I-UE-ABDD-AG1-4403 -> I-UE-ABDD-ENB-6006 -> I-UE-ABDD-ENB-6073 -> I-UE-ABDD-ENB-0508 -> I-UE-ABDD-ENB-0413 -> I-UE-ABDD-ENB-6008 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 7:
+ 0 ->  66 ->  78 ->  117 ->  102 ->  108 ->  106 ->  107 ->  112 ->  116 ->  36 ->  40 ->  52 ->  64 ->  1 ->  0 
+Distance of the route: 3846
+Load of the route: 15
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0160 -> I-UE-ABDD-ENB-0729 -> I-UE-ABDD-ENB-0174 -> I-UE-ABDD-ENB-0419 -> I-UE-ABDD-ENB-0354 -> I-UE-ABDD-ENB-0320 -> I-UE-ABDD-ENB-0485 -> I-UE-ABDD-ENB-6078 -> I-UE-ABDD-ENB-0725 -> I-UE-ABDD-ENB-0454 -> I-UE-ABDD-ENB-0573 -> I-UE-ABDD-ENB-0129 -> I-UE-ABDD-ENB-6070 -> I-UE-ABDD-ENB-0315 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 8:
+ 0 ->  57 ->  77 ->  12 ->  8 ->  7 ->  10 ->  11 ->  15 ->  14 ->  24 ->  20 ->  56 ->  0 
+Distance of the route: 2410
+Load of the route: 13
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-6022 -> I-UE-ABDD-ENB-6064 -> I-UE-ABDD-ENB-0341 -> I-UE-ABDD-ENB-0353 -> I-UE-ABDD-ENB-0164 -> I-UE-ABDD-ENB-0676 -> I-UE-ABDD-ENB-0679 -> I-UE-ABDD-ENB-0244 -> I-UE-ABDD-ENB-0264 -> I-UE-ABDD-ENB-0166 -> I-UE-ABDD-ENB-0614 -> I-UE-ABDD-ENB-6123 -> I-UE-ABDD-ENB-0388 -> 
+
+Route for vehicle 9:
+ 0 ->  4 ->  21 ->  60 ->  22 ->  2 ->  0 
+Distance of the route: 1441
+Load of the route: 6
+
+I-UE-ABDD-ENB-0388 -> I-UE-ABDD-ENB-0156 -> I-UE-ABDD-ENB-0324 -> I-UE-ABDD-ENB-0639 -> I-UE-ABDD-ENB-0072 -> I-UE-ABDD-ENB-0432 -> I-UE-ABDD-ENB-0388 -> 
+
